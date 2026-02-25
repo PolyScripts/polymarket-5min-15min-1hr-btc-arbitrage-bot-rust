@@ -18,15 +18,15 @@
 
 | 机器人运行 |
 |-----------|
-| ![机器人界面](images/screenshot1.png) |
+| ![机器人界面](images/1.png) |
 
 | 交易日志 |
 |---------|
-| ![交易历史](images/screenshot2.png) |
+| ![交易历史](images/2.png) |
 
 | 订单成交 | 成功记录 |
 |----------|----------|
-| ![订单执行](images/screenshot3.png) | ![成功记录](images/screenshot4.png) |
+| ![订单执行](images/3.png) | ![成功记录](images/4.png) |
 
 | 每日盈亏 |
 |---------|
